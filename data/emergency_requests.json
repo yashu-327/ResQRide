@@ -1,0 +1,83 @@
+[
+  {
+    "id": "REQ-DEMO-01",
+    "emergencyId": "RQR-DL-4092",
+    "vehiclePlate": "DL 01 AB 4092",
+    "riderName": "Rahul Sharma",
+    "bloodGroup": "O+",
+    "medicalInfo": "Penicillin allergy",
+    "medicalAlert": "Penicillin allergy",
+    "latitude": 28.7291,
+    "longitude": 77.1614,
+    "accuracy": 8,
+    "coordinates": {
+      "lat": 28.7291,
+      "lng": 77.1614,
+      "accuracy": 8
+    },
+    "locationAddress": "Outer Ring Road, Near Mukarba Chowk, Delhi",
+    "locationDescription": "Outer Ring Road, Near Mukarba Chowk, Delhi",
+    "timeReported": "Just now",
+    "timestamp": "Just now",
+    "status": "Waiting for Response",
+    "urgency": "critical",
+    "assignedAmbulanceUnit": "Ambulance Unit #104",
+    "primaryContactCalled": false,
+    "destinationHospital": "Max Trauma & Emergency Care",
+    "isNewEmergency": true
+  },
+  {
+    "id": "REQ-DEMO-02",
+    "emergencyId": "RQR-AP-1122",
+    "vehiclePlate": "AP 02 AS 1122",
+    "riderName": "Arjun Reddy",
+    "bloodGroup": "B+",
+    "medicalInfo": "No critical medical alert",
+    "medicalAlert": "No critical medical alert",
+    "latitude": 14.6819,
+    "longitude": 77.6006,
+    "accuracy": 10,
+    "coordinates": {
+      "lat": 14.6819,
+      "lng": 77.6006,
+      "accuracy": 10
+    },
+    "locationAddress": "NH 44, Near Clock Tower, Anantapur",
+    "locationDescription": "NH 44, Near Clock Tower, Anantapur",
+    "timeReported": "Just now",
+    "timestamp": "Just now",
+    "status": "Waiting for Response",
+    "urgency": "high",
+    "assignedAmbulanceUnit": "Ambulance Unit #108",
+    "primaryContactCalled": false,
+    "destinationHospital": "Max Trauma & Emergency Care",
+    "isNewEmergency": false
+  },
+  {
+    "id": "REQ-DEMO-03",
+    "emergencyId": "RQR-TS-5678",
+    "vehiclePlate": "TS 09 CD 5678",
+    "riderName": "Kiran Kumar",
+    "bloodGroup": "A+",
+    "medicalInfo": "No critical medical alert",
+    "medicalAlert": "No critical medical alert",
+    "latitude": 17.4399,
+    "longitude": 78.4983,
+    "accuracy": 12,
+    "coordinates": {
+      "lat": 17.4399,
+      "lng": 78.4983,
+      "accuracy": 12
+    },
+    "locationAddress": "Outer Ring Road, Gachibowli, Hyderabad",
+    "locationDescription": "Outer Ring Road, Gachibowli, Hyderabad",
+    "timeReported": "Just now",
+    "timestamp": "Just now",
+    "status": "Waiting for Response",
+    "urgency": "high",
+    "assignedAmbulanceUnit": "Ambulance Unit #102",
+    "primaryContactCalled": false,
+    "destinationHospital": "Max Trauma & Emergency Care",
+    "isNewEmergency": false
+  }
+]

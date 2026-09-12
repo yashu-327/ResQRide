@@ -1,0 +1,141 @@
+[
+  {
+    "id": "veh-001",
+    "plateNumber": "DL 01 AB 4092",
+    "vehicleType": "Two-Wheeler (Motorcycle)",
+    "vehicleModel": "Yamaha FZ-S (149cc)",
+    "ownerName": "Rahul Sharma",
+    "age": 26,
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "allergies": [
+      "Penicillin allergy"
+    ],
+    "medicalNotes": [
+      "Penicillin allergy"
+    ],
+    "primaryContact": {
+      "name": "Sunita Sharma",
+      "relation": "Mother",
+      "phone": "+91 98111 22334"
+    },
+    "secondaryContact": {
+      "name": "Ramesh Sharma",
+      "relation": "Father",
+      "phone": "+91 98112 34567"
+    },
+    "emergencyContacts": [
+      {
+        "name": "Sunita Sharma",
+        "relation": "Mother",
+        "phone": "+91 98111 22334"
+      },
+      {
+        "name": "Ramesh Sharma",
+        "relation": "Father",
+        "phone": "+91 98112 34567"
+      },
+      {
+        "name": "Priya Sharma",
+        "relation": "Wife",
+        "phone": "+91 98765 43210"
+      },
+      {
+        "name": "Amit Sharma",
+        "relation": "Brother",
+        "phone": "+91 98220 11998"
+      }
+    ],
+    "qrCodeId": "RQR-DL-4092",
+    "rtoOffice": "Proposed RTO: North Delhi (DL-01)",
+    "registeredDate": "Demo Record",
+    "isDemo": true,
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "veh-002",
+    "plateNumber": "AP 02 AS 1122",
+    "vehicleType": "Two-Wheeler (Motorcycle)",
+    "vehicleModel": "Hero Splendor Plus (97cc)",
+    "ownerName": "Arjun Reddy",
+    "age": 28,
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "allergies": [
+      "None"
+    ],
+    "medicalNotes": [
+      "No critical medical alert"
+    ],
+    "primaryContact": {
+      "name": "Lakshmi Reddy",
+      "relation": "Mother",
+      "phone": "+91 94401 22334"
+    },
+    "secondaryContact": {
+      "name": "Venkatesh Reddy",
+      "relation": "Father",
+      "phone": "+91 94402 33445"
+    },
+    "emergencyContacts": [
+      {
+        "name": "Lakshmi Reddy",
+        "relation": "Mother",
+        "phone": "+91 94401 22334"
+      },
+      {
+        "name": "Venkatesh Reddy",
+        "relation": "Father",
+        "phone": "+91 94402 33445"
+      }
+    ],
+    "qrCodeId": "RQR-AP-1122",
+    "rtoOffice": "Proposed RTO: Anantapur (AP-02)",
+    "registeredDate": "Demo Record",
+    "isDemo": true,
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "veh-003",
+    "plateNumber": "TS 09 CD 5678",
+    "vehicleType": "Four-Wheeler (Car)",
+    "vehicleModel": "Hyundai i20 (1.2L)",
+    "ownerName": "Kiran Kumar",
+    "age": 34,
+    "gender": "Male",
+    "bloodGroup": "A+",
+    "allergies": [
+      "None"
+    ],
+    "medicalNotes": [
+      "No critical medical alert"
+    ],
+    "primaryContact": {
+      "name": "Mohan Kumar",
+      "relation": "Father",
+      "phone": "+91 98490 55667"
+    },
+    "secondaryContact": {
+      "name": "Sneha Kumar",
+      "relation": "Wife",
+      "phone": "+91 98491 66778"
+    },
+    "emergencyContacts": [
+      {
+        "name": "Mohan Kumar",
+        "relation": "Father",
+        "phone": "+91 98490 55667"
+      },
+      {
+        "name": "Sneha Kumar",
+        "relation": "Wife",
+        "phone": "+91 98491 66778"
+      }
+    ],
+    "qrCodeId": "RQR-TS-5678",
+    "rtoOffice": "Proposed RTO: Hyderabad Central (TS-09)",
+    "registeredDate": "Demo Record",
+    "isDemo": true,
+    "verificationStatus": "verified"
+  }
+]

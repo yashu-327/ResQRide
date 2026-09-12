@@ -1,0 +1,6 @@
+{
+  "name": "ResQRide",
+  "description": "Hackathon prototype demonstrating a proposed vehicle emergency QR system with simulated ambulance dispatch, family contacts, and hospital routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
